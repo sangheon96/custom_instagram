@@ -6,5 +6,5 @@ Used Parse server to store data online
 Features:
  - Login and Sign Up
  - Follow and unfollow other users
- - Post image with messages
+ - Post images with messages
  - See posts of users that you follow
